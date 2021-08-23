@@ -24,7 +24,7 @@
     .container {
         /* max-width: 600px; */
         margin: 2rem auto auto auto;
-        width: 700px;
+        width: 850px;
         padding: 2rem 1rem 2rem 1rem;
         /* background-color: #f5f5f5ee; */
     }
